@@ -1,0 +1,25 @@
+# 忽略项目数据文件夹
+/Songs/
+/Output/
+/Output_Test/
+
+# 忽略Python环境和缓存
+__pycache__/
+*.pyc
+*.pyd
+*.so
+/venv/
+
+# 忽略IDE和编辑器配置文件
+.idea/
+.vscode/
+
+# 忽略构建和打包产物
+/build/
+/dist/
+*.spec
+*.json  # 忽略如 history.json 等临时文件
+
+# 忽略图标和其他可重建资源
+*.ico
+*.png
