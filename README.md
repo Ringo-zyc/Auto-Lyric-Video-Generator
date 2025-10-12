@@ -1,5 +1,3 @@
-pip install -r requirements.txt
-
 # Auto-Lyric-Video-Generator
 
 ---
