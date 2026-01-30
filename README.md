@@ -11,6 +11,8 @@
 
 *一键将音频、LRC 歌词与封面合成为精美的动态歌词视频*
 
+[English](README_EN.md) | [日本語](README_JP.md)
+
 </div>
 
 ---
